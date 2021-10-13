@@ -1,0 +1,28 @@
+.img-search {
+  width: 30%;
+  opacity: 50%;
+}
+.img-cep {
+  width: 15%;
+}
+.img-cart {
+  width: 8%;
+  opacity: 60%;
+}
+.container-input {
+  display: flex;
+  background-color: white;
+  border-radius: 3px;
+  padding: 5px;
+  align-items: center;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 20%);
+}
+
+.input-search {
+  padding: 0 0 0 10px;
+  height: 30px;
+  width: 100%;
+  border-style: none solid none none;
+  color: #333;
+  border-width: 1px;
+}

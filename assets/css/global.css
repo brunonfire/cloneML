@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Proxima Nova", -apple-system, "Helvetica Neue", Helvetica,
+    Roboto, Arial, sans-serif, sans-serif;
+}
+a {
+  text-decoration: none;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  background-color: #fff159;
+  align-items: center;
+}
+
+.col1 {
+  width: 10%;
+}
+
+.col2 {
+  width: 20%;
+}
+
+.col3 {
+  width: 30%;
+}
+
+.col4 {
+  width: 40%;
+}
+
+.col5 {
+  width: 50%;
+}
+
+.col6 {
+  width: 60%;
+}
+
+.col7 {
+  width: 70%;
+}
+
+.col8 {
+  width: 80%;
+}
+
+.col9 {
+  width: 90%;
+}
+
+.col10 {
+  width: 100%;
+}
+
+.flex {
+  display: flex;
+}
+.f-column {
+  flex-direction: column;
+}
+.jc-center {
+  justify-content: center;
+}
+.jc-end {
+  justify-content: end;
+}
+.jc-space {
+  justify-content: space-around;
+}
+
+.img-responsive {
+  width: 100%;
+}
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+.font1 {
+  font-size: 12px;
+}
+.font2 {
+  font-size: 14px;
+}
+.color-light {
+  color: rgba(0, 0, 0, 50%);
+}
+.color-dark {
+  color: rgba(0, 0, 0, 70%);
+}
+.pad-top10 {
+  padding-top: 10px;
+}
+.pad-right10 {
+  padding-right: 10px;
+}
+.pad-bottom10 {
+  padding-bottom: 10px;
+}
+.pad-left10 {
+  padding-left: 10px;
+}
+.pad-top5 {
+  padding-top: 5px;
+}
+.pad-right5 {
+  padding-right: 5px;
+}
+.pad-bottom5 {
+  padding-bottom: 5px;
+}
+.pad-left5 {
+  padding-left: 5px;
+}
